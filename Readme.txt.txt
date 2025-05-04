@@ -13,8 +13,4 @@ Features
 - **Save/Load**: Read/write mazes as plain `.txt`.  
 - **CLI**: No dependencies beyond C++11.
 
----
 
- Getting Started
-
-https://github.com/muhammadhar0on/Maze-Solver
